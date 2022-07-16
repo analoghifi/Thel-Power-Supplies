@@ -19,5 +19,7 @@ you <ins>have to</ins> use a transformer with two seperate secondary windings th
 
 https://web.archive.org/web/20170314153323/http://www.thel-audioworld.de:80/module/SPR-HQ/SPR-HQ.htm  
 https://web.archive.org/web/20210514094659/https://www.thel-audioworld.de/module/SPR-HQ/SPR-HQ.htm  
-
+  
+<img src="/SPR5-HQ/hardware/2SPR.jpg" />  
+  
 <img src="/SPR5-HQ/docs/output_variants.png" />
