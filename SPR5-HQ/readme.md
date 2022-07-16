@@ -5,8 +5,10 @@
 * Stable and low-noise regulator with protective functions 
 * Output voltage stabilized and adjustable: 1.3V to max 26V 
 * High output capacities 
-* Choke between the output electrolytic capacitors  
-** Better properties when the outputs are connected in parallel
+* Choke between the output electrolytic capacitors for the following advatages: 
+  * Relief of the controller with digital loads that load the voltage with high clock frequencies 
+  * Unlimited large electrolytic capacitors can also follow
+  * Better properties when the outputs are connected in parallel
 
 https://web.archive.org/web/20170314153323/http://www.thel-audioworld.de:80/module/SPR-HQ/SPR-HQ.htm  
 https://web.archive.org/web/20210514094659/https://www.thel-audioworld.de/module/SPR-HQ/SPR-HQ.htm  
