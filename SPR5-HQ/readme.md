@@ -2,7 +2,7 @@
 An adjustable audiophile analog power supply that pushes the envelope  
 Ready-to-install compact module up to 5A (without transformer)  
   
-<strong>this module can <ins>not</ins> be used with center tapped transformers,
+<strong>this module can <ins>not</ins> be used with center tapped transformers,  
 you <ins>have to</ins> use a transformer with two seperate secondary windings that are galvanically isolated from each other.</strong>
 
 * Two identical, galvanically isolated positive voltage regulators 
