@@ -5,4 +5,4 @@
 * 2mm thick / 2oz copper / ENIG gold finish
 * transformer secondary snubber (CRC) per side (--> <a href="https://github.com/analoghifi/Transformer-Snubber">see here</a>)
 * additional HF-blocking/bypass ceramic caps very near to the regulator IC
-* one additional big electrolytic output capacitor per side
+* double the output filter capacitors (after the choke) per side (while maintaining the original board dimensions)
