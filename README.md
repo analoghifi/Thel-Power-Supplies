@@ -2,7 +2,7 @@
 small symmetrical DC power supplies for audio (10W .. 50W | 2x5V .. 2x24V)  
   
   
-.  
+--> https://web.archive.org/web/20180724064052/http://www.thel-audioworld.de/module/NT-HQ/NT-HQ.htm  
   
   
 see as well the Thel "Black Pulsar" as a special\* kind of very high end power supply -> https://github.com/analoghifi/Thel-Black-Pulsar-PowerSupply  
