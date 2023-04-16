@@ -1,7 +1,8 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * more massive ground and power supply PCB tracks  
-* better component placement: D9 and D11 placed in a better location  
+* better component placement: D9 and D11 placed in a better location (this makes some small tracks obsolete)  
 * better component placement: C8 rotated by 180° / C20 rotated by 90° / L1 and L2 rotated by 90°  
+* therfore more space and more direct connections for ground and power PCB tracks
 * almost all pads are 'thermal relief' pads now (for better solderability)
 * more ventilation holes for the 2 heat sinks
   
